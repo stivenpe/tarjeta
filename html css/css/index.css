@@ -1,0 +1,68 @@
+html{
+    height: 100%;
+}
+.texto{
+    
+    border-radius: 5.208vw;
+    margin-left: 1vw;
+    margin-top: 5vw;
+}
+.tex{
+    margin-left: 52.083vw;
+    
+}
+.tt{
+    margin-left: 72.917vw;
+    margin-top: 0.521vw
+    ;
+    background-color: #ffffff;
+}
+.icon{
+    margin-left: 1350px;
+}
+.ten{
+    position: absolute;
+    margin-top: -90px;
+}
+.cotenedor{
+    width: 100%;
+    margin: 13%;
+    width: 60px;
+    border-radius: 50px;
+    position: relative;
+    bottom: 50px;
+    padding: 10px;
+}
+.bara{
+    margin-left: 1450px;
+    padding: -2900vw;
+    margin-top: -600px;
+}
+.images{
+    margin-left: 1130px;
+    margin-top: -10px;
+    padding: 110px;
+    position: relative;
+    bottom: 220px;
+}
+.ima2{
+    position: absolute;
+    margin-left: 1250px;
+    margin-top: -420px;
+}
+.ima{
+    position: absolute;
+    margin-left: 1256px;
+    margin-top: -375px;
+}
+.marco{
+    position: relative;
+    margin: auto;
+    width: 119vw;
+    top: 15vw;
+    border: solid;
+    background-color: white;
+}
+.body{
+    background: linear-gradient(to bottom , #fff, #E6E6E6, #808080) ;
+}
